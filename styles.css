@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+.arabic-text {
+  white-space: pre-line;
+}
+
 :root {
   /* Brand Colors */
   --primary-dark: #142237;
